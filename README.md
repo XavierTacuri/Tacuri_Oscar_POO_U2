@@ -9,7 +9,7 @@ El proyecto base fue clonado desde el repositorio de ejemplo de la UPS:
 
 ---
 
-## 🧩 Estructura del Proyecto
+##Estructura del Proyecto
 ```
 Tacuri_Oscar_POO_U2/
 │
