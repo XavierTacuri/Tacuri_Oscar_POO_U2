@@ -28,7 +28,7 @@ Tacuri_Oscar_POO_U2/
 │          │   └── VideoMusical.java
 │          │
 │          └── principal/
-│              └── Main.java
+│              └── PruebaAudiVisual.java
 │   
 │   
 │
