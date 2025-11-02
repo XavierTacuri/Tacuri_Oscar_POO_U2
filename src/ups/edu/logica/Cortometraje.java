@@ -8,10 +8,8 @@ public class Cortometraje extends ContenidoAudiovisual{
 	private String paisOr;
 	private String idioma;
 	private String director;
-	private List<Actor> actores;
+	private List<Actor> actores; //Creacion de una lista actores "aplico el concepto de agregacion" 
 
-	
-	
 	public Cortometraje(String titulo, int duracionEnMinutos, String genero, String paisOr, String idioma,
 			String director) {
 		super(titulo, duracionEnMinutos, genero);
