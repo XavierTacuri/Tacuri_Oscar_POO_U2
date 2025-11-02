@@ -1,16 +1,17 @@
-Proyecto POO Unidad 2 – Relación entre Clases- Oscar Tacuri
+Proyecto POO Unidad 2 – Relación entre Clases – Oscar Tacuri
 
-Descripción del Proyecto
-Este proyecto forma parte de la "Unidad 2: Relación entre Clases" del curso de "Programación Orientada a Objetos".  
+
+Descripción del Proyecto Este proyecto forma parte de la "Unidad 2: Relación entre Clases" del curso de "Programación Orientada a Objetos".
+>>>>>>> a3f60d4 (Archivo README con la Informacion del Pryecto)
 El objetivo es "ampliar un sistema audiovisual en Java" aplicando conceptos avanzados de POO, como "herencia", "asociación", "agregación" y "composición", integrando nuevas clases y subclases para crear un sistema completo, organizado y funcional.
 
-El proyecto base fue clonado desde el repositorio de ejemplo de la UPS:  
-👉 [https://github.com/CS-Programacion-Orientada-Objetos/poo_unidad1](https://github.com/CS-Programacion-Orientada-Objetos/poo_unidad1)
-
----
+El proyecto base fue clonado desde el repositorio de ejemplo de la UPS:
+-> https://github.com/CS-Programacion-Orientada-Objetos/poo_unidad1
 
 -> Estructura del Proyecto
-```
+
+
+>>>>>>> a3f60d4 (Archivo README con la Informacion del Pryecto)
 Tacuri_Oscar_POO_U2/
 │
 ├── src/
@@ -70,4 +71,6 @@ Tacuri_Oscar_POO_U2/
 - IDE recomendado:** Eclipse o IntelliJ IDEA  
 - Sistema operativo:** Windows / Linux / macOS
   
+
 - Autor: Oscar Tacuri  
+>>>>>>> a3f60d4 (Archivo README con la Informacion del Pryecto)
