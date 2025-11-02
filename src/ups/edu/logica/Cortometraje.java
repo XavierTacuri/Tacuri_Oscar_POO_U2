@@ -2,7 +2,7 @@ package ups.edu.logica;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Clase nueva creada "Actor
 public class Cortometraje extends ContenidoAudiovisual{
 	
 	private String paisOr;
