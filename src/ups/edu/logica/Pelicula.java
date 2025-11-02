@@ -9,7 +9,7 @@ import java.util.List;
 // Subclase Pelicula que extiende de ContenidoAudiovisual
 public class Pelicula extends ContenidoAudiovisual {
     private String estudio;
-    private List<Actor> actores;
+    private List<Actor> actores; //Creacion de una lista actores "aplico el concepto de agregacion" 
 
     public Pelicula(String titulo, int duracionEnMinutos, String genero, String estudio) {
 		super(titulo, duracionEnMinutos, genero);
