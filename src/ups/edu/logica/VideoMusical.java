@@ -1,5 +1,5 @@
 package ups.edu.logica;
-
+//Clase nueva creada "Actor
 public class VideoMusical extends ContenidoAudiovisual  {
 	
 	private String artista;
