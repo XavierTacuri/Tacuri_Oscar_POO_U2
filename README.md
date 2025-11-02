@@ -7,7 +7,7 @@ El objetivo es "ampliar un sistema audiovisual en Java" aplicando conceptos avan
 
 El proyecto base fue clonado desde el repositorio de ejemplo de la UPS:
 -> https://github.com/CS-Programacion-Orientada-Objetos/poo_unidad1
-
+---
 -> Estructura del Proyecto
 Tacuri_Oscar_POO_U2/
 │
@@ -35,8 +35,7 @@ Tacuri_Oscar_POO_U2/
 │
 ├── README.md
 └── .gitignore
-
-
+---
 -> Funcionalidades Principales
 - Herencia:** Las clases `Cortometraje` y `VideoMusical` heredan de `ContenidoAudiovisual`.  
 - Asociación:** La clase `Actor` está asociada a `Pelicula`, y `Investigador` a `Documental`.  
