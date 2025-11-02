@@ -1,18 +1,35 @@
 /**
  * Class Pelicula
  */
-package uni1a;
+package ups.edu.logica;
+
+import java.util.ArrayList;
+import java.util.List;
 
 // Subclase Pelicula que extiende de ContenidoAudiovisual
 public class Pelicula extends ContenidoAudiovisual {
     private String estudio;
+    private List<Actor> actores;
 
     public Pelicula(String titulo, int duracionEnMinutos, String genero, String estudio) {
-        super(titulo, duracionEnMinutos, genero);
-        this.estudio = estudio;
-    }
+		super(titulo, duracionEnMinutos, genero);
+		this.estudio = estudio;
+		this.actores = new ArrayList<>();
+	}
 
-    public String getEstudio() {
+    public void agregarActor(Actor actor) {
+        actores.add(actor);
+    }
+    
+	public List<Actor> getActores() {
+		return actores;
+	}
+
+	public void setActores(List<Actor> actores) {
+		this.actores = actores;
+	}
+
+	public String getEstudio() {
         return estudio;
     }
 
@@ -28,6 +45,10 @@ public class Pelicula extends ContenidoAudiovisual {
         System.out.println("Duración en minutos: " + getDuracionEnMinutos());
         System.out.println("Género: " + getGenero());
         System.out.println("Estudio: " + estudio);
+        System.out.println("Reparto: ");
+        for (Actor actor : actores) {
+            System.out.println(" - " + actor.getNombre()+" "+ actor.getNacionalidad() + " Edad:"+ actor.getEdad());
+        }
         System.out.println();
     }
 }

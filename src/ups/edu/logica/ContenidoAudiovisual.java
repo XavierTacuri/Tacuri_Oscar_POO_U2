@@ -1,7 +1,7 @@
-package uni1a;
+package ups.edu.logica;
 
 public abstract class ContenidoAudiovisual {
-    private static int contar = 0;
+    private static int contar = 1;
     private String titulo;
     private int duracionEnMinutos;
     private String genero;
