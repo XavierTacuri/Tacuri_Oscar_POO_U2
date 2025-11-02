@@ -1,11 +1,10 @@
 package ups.edu.logica;
-
+//Clase nueva creada "Actor" 
 public class Actor {
-	
+
 	private String nombre;
 	private int edad;
 	private String nacionalidad;
-	
 	
 	public Actor(String nombre, int edad, String nacionalidad) {
 		super();
