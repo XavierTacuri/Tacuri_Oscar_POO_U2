@@ -58,16 +58,16 @@ Tacuri_Oscar_POO_U2/
 
 ---
 
-## ⚙️ Instrucciones de Ejecución
+## Instrucciones de Ejecución
 1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/XavierTacuri/Tacuri_Oscar_POO_U2.git
-   ```
+   
+   https://github.com/XavierTacuri/Tacuri_Oscar_POO_U2.git
+   
 2. Abrir el proyecto en **Eclipse IDE** o cualquier entorno compatible con Java.  
 3. Compilar y ejecutar la clase:
-   ```java
+   
    ups.edu.principal.PruebaAudioVisual.java
-   ```
+   
 4. Observar la salida en la consola con los objetos creados y sus relaciones.
 
 - Autor: **Oscar Tacuri**
