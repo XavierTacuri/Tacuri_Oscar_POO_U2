@@ -45,7 +45,7 @@ public class PruebaAudioVisual {
         contenidos.add(corMe);
        
         for (ContenidoAudiovisual contAu:contenidos) {
-        	contAu.mostrarDetalles();
+        	contAu.mostrarDetalles(); // Bucle que recorre la lista y imprime en consola
         }
      
     }
