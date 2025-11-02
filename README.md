@@ -9,9 +9,6 @@ El proyecto base fue clonado desde el repositorio de ejemplo de la UPS:
 -> https://github.com/CS-Programacion-Orientada-Objetos/poo_unidad1
 
 -> Estructura del Proyecto
-
-
-
 Tacuri_Oscar_POO_U2/
 │
 ├── src/
