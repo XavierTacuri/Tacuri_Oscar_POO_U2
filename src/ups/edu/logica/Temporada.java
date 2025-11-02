@@ -1,5 +1,5 @@
 package ups.edu.logica;
-
+//Clase nueva creada "Actor
 public class Temporada {
 	
 	private int numTempo;
