@@ -70,4 +70,4 @@ Tacuri_Oscar_POO_U2/
    
 4. Observar la salida en la consola con los objetos creados y sus relaciones.
 
-- Autor: **Oscar Tacuri**
+- Autor: **Oscar Xavier Tacuri**
